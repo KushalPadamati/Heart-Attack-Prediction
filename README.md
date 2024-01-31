@@ -1,6 +1,6 @@
 **Heart Attack Prediction**
 
-This repository contains the code and data for a machine learning model that predicts the probability of a heart attack. This project aims to contribute to early detection and prevention of heart disease, a leading global health concern.
+This repository contains the code and data for a machine learning model that predicts the probability of a heart attack. This project aims to predict by taking the current health condition.
 
 **Disclaimer:** This model is intended for educational and research purposes only and should not be used for medical diagnosis or treatment. Please consult a healthcare professional for any concerns regarding your health.
 Project Overview
